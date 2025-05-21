@@ -6,34 +6,50 @@
 
 ---
 
-# 🧑🏼‍💻 About me
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-I’m **Martin Sebastian Gonzalez Chairez**, a Computer Systems Engineering student and a passionate developer driven by precision, purpose, and elegant problem-solving. I thrive at the intersection of performance, design, and scalability — building clean, efficient, and impactful software.
+# 👤 About me
+I’m **Martin Sebastian Gonzalez Chairez**, a Computer Systems Engineering student and a passionate developer driven by precision, purpose, and elegant problem-solving. I thrive at the intersection of performance, design, and scalability—building clean, efficient, and impactful software.
 
-Competitive **Programming** Enthusiast!
-  - ICPC TXST Texas-México at Texas State University (2025)
-  - ICPC Gran Premio de México (2025)
+**Competitive Programming Enthusiast**
+- ICPC TXST Texas–México at Texas State University (2025)  
+- ICPC Gran Premio de México (2025)
 
----
 
-# 📁 Portfolio
+&nbsp;
 
-> Link: (work in progress...)
+   </td>
 
----
+   <!-- Columna derecha – CONNECT WITH ME -->
+   <td width="40%" valign="top">
 
-# 🌐 Connect with me
-
-- 📄 Download My CV [PDF](https://github.com/Sebaxg86/Sebaxg86/blob/8e484ff0993d45629980e428e3bea1aacf5a909d/CV.pdf)
-- 💼 LinkedIn [🔗](https://www.linkedin.com/in/cbaxplus/)  
-- 🔥 My Competitive Programming Profile:  
-  - Codeforces [🔗](https://codeforces.com/profile/Sebax86)
-  - LeetCode [🔗](https://leetcode.com/u/Sebax86/)
+# 📬 Connect with me
+- 📄 **Download my CV** [[PDF](https://github.com/Sebaxg86/Sebaxg86/blob/8e41ff0993d45629980e428e3be1aacf5a909d/CV.pdf)]  
+- 🔗 **LinkedIn** [[cbaxplus](https://www.linkedin.com/in/cbaxplus/)]  
+- 🏆 **Competitive Programming**
+  - Codeforces [[Sebax86](https://codeforces.com/profile/Sebax86)]  
+  - LeetCode [[Sebax86](https://leetcode.com/u/Sebax86/)]  
 - ✉️ Reach me at: **sebax86@icloud.com**
+
+   </td>
+  </tr>
+</table>
+
+---
+
+# 🗂️ Portfolio
+> Link: (work in progress…)
 
 ---
 
 ## 💻 Tech Stack
+
+<table>
+  <tr>
+    <!-- Columna 1 -->
+    <td width="50%" valign="top">
 
 ### 🧠 Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -50,6 +66,11 @@ Competitive **Programming** Enthusiast!
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+&nbsp;
+    </td>
+    <!-- Columna 2 -->
+    <td width="50%" valign="top">
 
 ### 🔧 Backend Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -74,6 +95,9 @@ Competitive **Programming** Enthusiast!
 ### 🎨 Design & Other Tools
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+    </td>
+  </tr>
+</table>
 
 ---
 
