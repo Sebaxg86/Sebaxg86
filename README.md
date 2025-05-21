@@ -10,7 +10,16 @@
 
 I’m **Martin Sebastian Gonzalez Chairez**, a Computer Systems Engineering student and a passionate developer driven by precision, purpose, and elegant problem-solving. I thrive at the intersection of performance, design, and scalability — building clean, efficient, and impactful software.
 
-- 📂 My Portfolio Website (work in progress...)  
+Competitive **Programming** Enthusiast!
+  - ICPC TXST Texas-México at Texas State University (2025)
+  - ICPC Gran Premio de México (2025)
+
+---
+
+# 📁 Portfolio
+
+> Link: (work in progress...)
+
 ---
 
 # 🌐 Connect with me
