@@ -44,7 +44,7 @@ I’m **Martin Sebastian Gonzalez Chairez**, a Computer Systems Engineering stud
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <table>
   <tr>
@@ -101,7 +101,7 @@ I’m **Martin Sebastian Gonzalez Chairez**, a Computer Systems Engineering stud
 
 ---
 
-#  GitHub Stats:
+# 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=sebaxg86&theme=react&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=sebaxg86&theme=react&hide_border=true)<br/>
