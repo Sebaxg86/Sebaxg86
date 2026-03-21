@@ -26,7 +26,7 @@ I’m **Martin Sebastian Gonzalez Chairez**, a Computer Systems Engineering stud
    <td width="40%" valign="top">
 
 # 📬 Connect with me
-- 📄 **Download my CV** [[PDF](https://github.com/Sebaxg86/Sebaxg86/blob/8e41ff0993d45629980e428e3be1aacf5a909d/CV.pdf)]  
+- 📄 **Download my CV** [[PDF](https://github.com/Sebaxg86/Sebaxg86/blob/main/CV.pdf)]  
 - 🔗 **LinkedIn** [[cbaxplus](https://www.linkedin.com/in/cbaxplus/)]  
 - 🏆 **Competitive Programming**
   - Codeforces [[Sebax86](https://codeforces.com/profile/Sebax86)]  
