@@ -10,12 +10,23 @@
   <tr>
     <td width="60%" valign="top">
 
-# 👤 About me
-I’m **Martin Sebastian Gonzalez Chairez**, a Computer Systems Engineering student and a passionate developer driven by precision, purpose, and elegant problem-solving. I thrive at the intersection of performance, design, and scalability—building clean, efficient, and impactful software.
+# 👋 About Me
 
-**Competitive Programming Enthusiast**
-- ICPC TXST Texas–México at Texas State University (2025)  
-- ICPC Gran Premio de México (2025)
+Computer Systems Engineering student, ERP Implementation Consultant, and technical project lead focused on transforming complex business requirements into reliable software.
+
+My experience spans ERP implementation, enterprise automation, and full-stack product development. I also led a six-person Scrum team in the delivery of ARMON-IA, an AI-assisted emotional wellness platform developed across three repositories.
+
+## 🔭 Currently
+
+- Leading an end-to-end Odoo ERP implementation and digital transformation across 10 core business workflows.
+- Working at the intersection of enterprise systems, software engineering, and technical project leadership.
+
+## 🏆 Competitions & Hackathons
+
+**2025:** ICPC Mexico Finals • ICPC TXST Texas–México • TecNM Coding Cup • HackMty • Hackathon Laguna Inteligente • DataWeek UAC Programming Competition
+
+**2024:** TecNM Coding Cup • ITSA Programming Contest • CEMEX Hackathon at MTY
+
 
 
 &nbsp;
@@ -44,64 +55,100 @@ I’m **Martin Sebastian Gonzalez Chairez**, a Computer Systems Engineering stud
 # 💻 Tech Stack
 
 <table>
-  <tr>
-    <!-- Columna 1 -->
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 Programming Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### 🌐 Frontend Development
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 📱 Frontend & Mobile
+
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-&nbsp;
-    </td>
-    <!-- Columna 2 -->
-    <td width="50%" valign="top">
+### 🏢 Enterprise & Automation
 
-### 🔧 Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Odoo.sh](https://img.shields.io/badge/Odoo.sh-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![SAP Business One](https://img.shields.io/badge/SAP_Business_One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-FF6D00?style=for-the-badge&logoColor=white)
 
-### 🛢️ Databases & Cloud
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+</td>
+<td width="50%" valign="top">
+
+### 🔧 Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### 🤖 AI & Orchestration
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+### 🗄️ Databases & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-### ⚙️ DevOps & Tools
+### ⚙️ DevOps & Delivery
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230DB7ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logoColor=white)
 
-### 🎨 Design & Other Tools
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sebaxg86&theme=react&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=sebaxg86&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebaxg86&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sebaxg86&theme=github_dark"
+    alt="GitHub Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sebaxg86&theme=github_dark"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sebaxg86&theme=github_dark"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=sebaxg86&theme=react&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
